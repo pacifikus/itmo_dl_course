@@ -10,6 +10,12 @@
 - [2.1 Сверточные сети (05.12.2025)](Lecture%2007)
 - [2.2 PyTorch Lightning, Learning Rate Schedulers (12.12.2025)](Lecture%2008)
 - [2.3 Dropout2d, BatchNorm2d, NLP basics: от Bag-of-Words к CNN для текстов (12.12.2025)](Lecture%2009)
+- [2.4 RNN, LSTM, GRU (19.12.2025)](Lecture%2010)
+
+
+- [3.1 Transformers basics, BERT, GPT (19.12.2025)](Lecture%2011)
+
+
 
 
 ______
@@ -20,3 +26,4 @@ ______
 |------|----------|-----------|-----------------|
 | [ДЗ 1](HW/hw_1/itmo_dl_course_hw_1.md) | Создание и обучение MLP | 10 | 14.12.2025 20:00 МСК|
 | [ДЗ 2](HW/hw_2.md) | Классификатор FashionMNIST на PyTorch Lightning | 10 | 28.12.2025 20:00 МСК|
+| [ДЗ 3](HW/hw_3.md) | Классификация текстов с CNN и RNN | 10 | 11.01.2025 20:00 МСК|
