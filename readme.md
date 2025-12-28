@@ -14,9 +14,9 @@
 
 
 - [3.1 Transformers basics, BERT, GPT (19.12.2025)](Lecture%2011)
-
-
-
+- [3.2 Аугментации для текстов и картинок (26.12.2025)](Lecture%2012)
+- [3.3 Huggingface, transformers pipeline, BERT finetuning (26.12.2025)](Lecture%2013)
+- [3.4 Full finetuning, Linear Probing, LP-FT, PEFT (LoRA) (26.12.2025)](Lecture%2013)
 
 ______
 
