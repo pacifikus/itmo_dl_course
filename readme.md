@@ -36,7 +36,7 @@ ______
 
 | Ссылка   | Max Балл | Жесткий Дедлайн |
 |----------|----------|-----------------|
-| [AITH DL Competition - Tabular data](https://www.kaggle.com/t/d4306ce5809146f1985eab71c8707ad3) | 30 | 24.01.2026 23:59 МСК|
+| [AITH DL Competition - Tabular data](https://www.kaggle.com/t/53ccdbc390eb4c4ab8c6cd29e91b7c7c) | 30 | 24.01.2026 23:59 МСК|
 | [AITH DL Competition - Text data](https://www.kaggle.com/t/87ff7e5651824886b4eadb100a05d048) | 30 | 24.01.2026 23:59 МСК|
 
 Необходимо выбрать одно соревнование (можно больше, но баллы в итоге будут выставлены за лучший результат).
