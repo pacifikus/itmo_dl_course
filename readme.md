@@ -17,7 +17,8 @@
 - [3.2 Аугментации для текстов и картинок (26.12.2025)](Lecture%2012)
 - [3.3 Huggingface, transformers pipeline, BERT finetuning (26.12.2025)](Lecture%2013)
 - [3.4 Full finetuning, Linear Probing, LP-FT, PEFT (LoRA) (26.12.2025)](Lecture%2013)
-
+- [3.5 Интерпретация DL-моделей: Saliency & SmoothGrad, Integrated Gradients, Grad-CAM, Guided Backprop, Occlusion, LIME, визуализация attention, Feature Ablation (17.01.2026)](Lecture%2014)
+- [3.6 Трансформеры в не-NLP задачах: CV, Audio, TS, мультимодальные модели, RecSys (17.01.2026)](Lecture%2015)
 ______
 
 #### Домашние задания
