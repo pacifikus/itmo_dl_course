@@ -19,6 +19,7 @@
 - [3.4 Full finetuning, Linear Probing, LP-FT, PEFT (LoRA) (26.12.2025)](Lecture%2013)
 - [3.5 Интерпретация DL-моделей: Saliency & SmoothGrad, Integrated Gradients, Grad-CAM, Guided Backprop, Occlusion, LIME, визуализация attention, Feature Ablation (17.01.2026)](Lecture%2014)
 - [3.6 Трансформеры в не-NLP задачах: CV, Audio, TS, мультимодальные модели, RecSys (17.01.2026)](Lecture%2015)
+- [3.7 Квантизация, прунинг, дистилляция, конвертация моделей в ONNX и другие форматы](Lecture%2016)
 ______
 
 #### Домашние задания
